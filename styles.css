@@ -1,0 +1,18 @@
+* {
+    background-color: blanchedalmond;
+}
+
+.pizza,.pasta{
+    height: auto;
+    width:500px;
+    border-radius: 30px;
+}
+p.paragraph {
+    color: black;
+    background:blueviolet;
+}
+
+h1.index-header{
+    color: white;
+    background:black;
+}
